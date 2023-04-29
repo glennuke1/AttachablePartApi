@@ -1,0 +1,6 @@
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\bin\Debug\AttachablePartApi.dll
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\bin\Debug\AttachablePartApi.pdb
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\obj\Debug\AttachablePartApi.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\obj\Debug\AttachablePartApi.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\obj\Debug\AttachablePartApi.dll
+C:\Users\admin\source\repos\AttachablePartApi\AttachablePartApi\obj\Debug\AttachablePartApi.pdb
