@@ -11,7 +11,7 @@ Setup:
 2. To your attachable object, add the AttachComp component and set its pivot to your pivot object
 3. Done
 
-Example Script:
+This example mod creates a spehere and a cube with their pivots next to the compost at the back of the house
 
 ```
 using MSCLoader;
