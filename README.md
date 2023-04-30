@@ -1,6 +1,6 @@
 # AttachablePartApi
 Adds a way for modders to easily add assembling and disassembling to their mods
-The api also saves the attached state (You'll need to delete the save value in your
+The api also saves the attached state (You'll need to delete the save value in your mod)
 
 
 Note: You must have the dll in your mods folder
